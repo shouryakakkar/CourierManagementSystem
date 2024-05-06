@@ -1,4 +1,4 @@
 # CourierManagementSystem
-Managing couriers is easy when you have the COURIER MANAGEMENT Software to collect and access all data for the couriers
+Managing couriers is easy when you have the COURIER MANAGEMENT Software which provides easy accesibility to all package data.
 
 Project by SHOURYA KAKKAR ❤️❤️
